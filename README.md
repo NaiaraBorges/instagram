@@ -1,4 +1,4 @@
 # instagram
 login page instagram 
 
-<img src="./img/page.png" width="1000px" />
+<img src="./img/page.png" width="2000px" />
